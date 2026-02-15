@@ -1,0 +1,16 @@
+venv
+Data
+IQ-OTH_NCCD
+venv/
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.zip
+*.tar
+*.csv
+dataset/
+__pycache__/
+Model
+visual
+Scripts/test.py
