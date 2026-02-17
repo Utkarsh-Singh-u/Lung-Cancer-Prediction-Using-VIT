@@ -16,7 +16,7 @@ import gdown   # pip install gdown
 # ────────────────────────────────────────────────
 # CONFIG
 # ────────────────────────────────────────────────
-GDRIVE_MODEL_URL = "https://drive.google.com/file/d/13XYtH4-6nkIqoI6Bfm97F6saItHBmkq8/view?usp=drive_link"  # ← PASTE YOUR DIRECT LINK
+GDRIVE_MODEL_URL = "https://drive.google.com/file/d/13XYtH4-6nkIqoI6Bfm97F6saItHBmkq8/view?usp=drive_link" 
 LOCAL_MODEL_PATH = "temp_vit_model.pth"   # temporary file in app folder
 
 DB_PATH         = "Database/lung_nodule.db"
