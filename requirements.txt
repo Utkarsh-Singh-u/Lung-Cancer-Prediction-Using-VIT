@@ -1,7 +1,7 @@
 torch 
 torchvision 
 torchaudio
-transformers
+transformers==4.40.2
 opencv-python 
 scikit-image 
 albumentations
@@ -17,3 +17,4 @@ seaborn
 grad-cam
 kagglehub
 gdown
+Pillow
