@@ -16,7 +16,7 @@ erDiagram
         string name
         string sem
         string year
-        string Fa
+        string FacultyId
     }
     STUDENT {
         int sid
